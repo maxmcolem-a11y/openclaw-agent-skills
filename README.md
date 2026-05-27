@@ -17,6 +17,7 @@ Canonical local skill files may live in an OpenClaw workspace, but Trello onboar
 
 These are copies of runtime skills that were available locally but did not have a simple upstream skill URL in the current checkout.
 
+- [imagegen](mirrors/imagegen/SKILL.md)
 - [browser-automation](mirrors/browser-automation/SKILL.md)
 - [diagram-maker](mirrors/diagram-maker/SKILL.md)
 - [meme-maker](mirrors/meme-maker/SKILL.md)
