@@ -12,3 +12,15 @@ Canonical local skill files may live in an OpenClaw workspace, but Trello onboar
 - [step-parts](skills/step-parts/SKILL.md)
 - [westfield-presentations](skills/westfield-presentations/SKILL.md)
 - [youtube-ngrok-share](skills/youtube-ngrok-share/SKILL.md)
+
+## Mirrored upstream/runtime skills
+
+These are copies of runtime skills that were available locally but did not have a simple upstream skill URL in the current checkout.
+
+- [browser-automation](mirrors/browser-automation/SKILL.md)
+- [diagram-maker](mirrors/diagram-maker/SKILL.md)
+- [meme-maker](mirrors/meme-maker/SKILL.md)
+- [node-inspect-debugger](mirrors/node-inspect-debugger/SKILL.md)
+- [python-debugpy](mirrors/python-debugpy/SKILL.md)
+- [spike](mirrors/spike/SKILL.md)
+
